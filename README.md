@@ -1,2 +1,2 @@
-# projektna_naloga
-Pretvornik enot
+# Pretvornik enot
+projektna_naloga
